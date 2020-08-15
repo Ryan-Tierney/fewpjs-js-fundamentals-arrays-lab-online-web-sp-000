@@ -1,8 +1,8 @@
 // Write your solution here!
 const append = 
 
-const prepend 
+const prepend =
 
-const removeLast
+const removeLast = 
 
-const removeFirst 
+const removeFirst = 
